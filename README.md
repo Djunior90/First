@@ -1,4 +1,4 @@
 # First
 This is my first GIT Repository.
 <br>
-Author -- Sourav Das
+Author -- Sourav Das (Djunior)
